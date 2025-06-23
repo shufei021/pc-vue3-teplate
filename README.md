@@ -1,2 +1,3 @@
-# -
-基于 vite + vue3 + ts + pinia + vueuse的企业级前端项目模板
+# Vite + Vue3 + Typescript + Pinia + Vueuse
+
+> 企业级前端项目模板
